@@ -24,6 +24,6 @@ namespace FloodFillRecursion.Models
             Column = column;
             IsVisited = false;
         }
-        // Update and commit
+        
     }
 }
